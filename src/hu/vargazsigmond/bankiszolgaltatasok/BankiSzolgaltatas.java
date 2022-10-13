@@ -1,6 +1,6 @@
 package hu.vargazsigmond.bankiszolgaltatasok;
 
-public class BankiSzolgaltatas {
+public abstract class BankiSzolgaltatas {
     private Tulajdonos tulajdonos;
 
     public BankiSzolgaltatas(Tulajdonos tulajdonos) {
